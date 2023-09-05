@@ -13,4 +13,4 @@ O arquivo PDF ["Mapas Mentais - Introdução a Java - Jéssica Raissa Pessoa"](h
 * 9 - Comandos de Repetição - Jéssica Raissa Pessoa
 * 10 -Vetor Array - Jéssica Raissa Pessoa
 
-Na pasta [Mapas isolados](https://github.com/jessicaraissapessoa/Mapas-Mentais-Introducao-Java/tree/main/Mapas%20isolados) do repositório, você pode encontrar cada mapa em um arquivo isolado.
+Na pasta ["Mapas isolados"](https://github.com/jessicaraissapessoa/Mapas-Mentais-Introducao-Java/tree/main/Mapas%20isolados) do repositório, você pode encontrar cada mapa em um arquivo isolado.
